@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abraham210-ui
 - 👀 I’m interested in learning full stack development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning typeScript
 - 💞️ I’m looking to collaborate with seniors
 - 📫 How to reach me abrahamnwaefulu28@gmail.com
 
